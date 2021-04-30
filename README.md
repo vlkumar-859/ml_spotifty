@@ -5,9 +5,11 @@
  2.  V Lohit Kumar (19pa1a05i3)
  
 # DESCRIPTION
+ 
+ ![image_1](https://miro.medium.com/max/3000/0*heMsQwjyeS_UWkOP.png)
+ 
  We created a medium article , in which we done some basic EDA(Explaratory Data Analysis) on the spotify dataset.
  with the help of EDA , we can see the hidden insights present in the dataset and can analyse and understand the data in best possible manner.
- ![image_1](https://miro.medium.com/max/3000/0*heMsQwjyeS_UWkOP.png)
 
 # LINK TO OUR MEDIUM ARTICLE
 https://medium.com/@lohitkumar859/eda-on-spotify-data-5b1ffbc890f3
